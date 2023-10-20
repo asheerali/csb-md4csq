@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://asheerali.github.io/csb-md4csq/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://asheerali.github.io/csb-md4csq/static/js/main.8b3c5713.chunk.js",
+    "main.js.map": "https://asheerali.github.io/csb-md4csq/static/js/main.8b3c5713.chunk.js.map",
+    "runtime-main.js": "https://asheerali.github.io/csb-md4csq/static/js/runtime-main.3bcdf8a6.js",
+    "runtime-main.js.map": "https://asheerali.github.io/csb-md4csq/static/js/runtime-main.3bcdf8a6.js.map",
+    "static/js/2.d351aa5a.chunk.js": "https://asheerali.github.io/csb-md4csq/static/js/2.d351aa5a.chunk.js",
+    "static/js/2.d351aa5a.chunk.js.map": "https://asheerali.github.io/csb-md4csq/static/js/2.d351aa5a.chunk.js.map",
+    "index.html": "https://asheerali.github.io/csb-md4csq/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://asheerali.github.io/csb-md4csq/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.d351aa5a.chunk.js.LICENSE.txt": "https://asheerali.github.io/csb-md4csq/static/js/2.d351aa5a.chunk.js.LICENSE.txt",
+    "static/media/test-doc.docx": "https://asheerali.github.io/csb-md4csq/static/media/test-doc.7439d875.docx",
+    "static/media/test-excelaki.xlsx": "https://asheerali.github.io/csb-md4csq/static/media/test-excelaki.3aabe474.xlsx"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bcdf8a6.js",
+    "static/js/2.d351aa5a.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.8b3c5713.chunk.js"
+  ]
+}
